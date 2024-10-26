@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Undocked Cape",
+      "email": "undockedcape01@gmail.com",
+      "password": "$2a$10$h8s85cg8Y.SxVb2BGOnOVOj5nmCWFmIkzXYbdjtQd8N.DW0laWqra",
+      "contact": "6262626262",
+      "photo": "/avatars/default.jpg",
+      "role": "user",
+      "createdAt": "2024-10-26T21:20:17.407Z"
+    },
+    {
+      "id": "2",
+      "name": "Undocked Alfa Cape",
+      "email": "undockedalfacape01@gmail.com",
+      "password": "$2a$10$4ct2jQ7gxwP8Tcl2l0X2penfEGf1AtG6gdlF49CSeylrf0g/YyoDO",
+      "contact": "6969696969",
+      "photo": "/avatars/default.jpg",
+      "role": "user",
+      "createdAt": "2024-10-26T21:37:38.502Z"
+    }
+  ]
+}
